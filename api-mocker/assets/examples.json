@@ -1,8 +1,0 @@
-{
-  "getAccount": {
-    "id": "acc_123",
-    "name": "Demo Account",
-    "status": "active",
-    "balance_cents": 1250000
-  }
-}
