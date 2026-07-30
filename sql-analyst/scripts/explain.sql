@@ -1,3 +1,3 @@
--- Prefix any candidate query to check the plan before running it for real:
+-- UPSTREAM v2: cost limits added
 EXPLAIN (ANALYZE false, COSTS true, FORMAT text)
--- <paste query here>
+-- refuse plans with cost > 1e6 in review
