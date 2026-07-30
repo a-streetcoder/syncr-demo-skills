@@ -1,0 +1,10 @@
+{
+  "name": "syncr-marketplace",
+  "plugins": [
+    {
+      "name": "pr-review-checklist",
+      "source": "./pr-review-checklist",
+      "description": "Review pull requests against the team checklist before approving — correctness first, style last."
+    }
+  ]
+}

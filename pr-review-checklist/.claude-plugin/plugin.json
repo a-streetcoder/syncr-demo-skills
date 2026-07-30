@@ -1,0 +1,5 @@
+{
+  "name": "pr-review-checklist",
+  "description": "Review pull requests against the team checklist before approving — correctness first, style last.",
+  "version": "1.0.0"
+}
